@@ -1,0 +1,40 @@
+[
+    {
+        "name": "broadsword",
+        "description": "a good quality sword used to fight",
+        "classification": "weapon",
+        "actions": ["take", "examine"]
+    },
+    {
+        "name": "golden-egg",
+        "description": "famous treasure worth a lot of money, very fragile, holds a secret",
+        "classification": "item",
+        "actions": ["take", "examine", "open", "break", "crack"]
+    },
+    {
+        "name": "large-tree",
+        "description": "big tree with low branchs",
+        "classification": "room",
+        "actions": ["climb"]
+    },
+    {
+        "name": "long-spear",
+        "description": "pike weapon can do some major stab damage",
+        "classification": "weapon",
+        "actions": ["take", "examine"]
+    },
+    {
+        "name": "ugly-troll",
+        "description": "a very ugly troll, he blocks all entrances",
+        "classification": "non-player",
+        "actions": ["attack", "kill", "talk"]
+    },
+    {
+        "name": "rubble",
+        "description": "broken rock and stone",
+        "classification": "item",
+        "actions": ["clear", "move", "take"]
+    }
+
+
+]
