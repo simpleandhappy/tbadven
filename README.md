@@ -7,4 +7,4 @@ It was inspiring listening to the stories of studios working on games with no ex
 I used to love playing that game Zork. So let me make a game like that. And then started the journey to make a zork clone.
 
 
-Right now trying to use nltk to be able to understand the user input and what actions to take
+Right now trying to use nltk to be able to understand the user input and what actions to take based off that user input
