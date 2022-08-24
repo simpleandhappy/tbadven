@@ -11,4 +11,3 @@ if __name__ == "__main__":
         if user_command == "quit":
             quit()
         words = parser.parse_input(user_command)
-        eval(words)

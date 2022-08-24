@@ -21,8 +21,8 @@ class Parser(object):
         for form in VERB_FORMS:
             if verb == '':
                 verb = sentence_parts.get(form, '')
-        print(verb)
-
+        noun = sentence_parts.get('NN')
+        return {'name': noun, 'method': verb}
 
     def make_proper(self, user_input):
         user_input = user_input.lower()
